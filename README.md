@@ -25,7 +25,7 @@ The output of the refactored code matches with the output before the code was re
 ![All Stocks Analysis Output for 2018 with Execution time after Refactor](Resources/VBA_Challenge_2018.png)
 
 ### Refactored code snippet:
-Below is the code snippet that is refactored with comments. Complete code for the All Stock Analysis can be found in (Resources/VBA_Challenge.vbs)
+Below is the code snippet that is refactored with comments. Complete code for the All Stock Analysis can be found here [VBA Script](Resources/VBA_Challenge.vbs)
 
 ```
  '1a) Create a ticker Index
