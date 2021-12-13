@@ -87,13 +87,14 @@ Below is the code snippet that is refactored with comments. Complete code for th
 ## Summary: 
 
 ### 1. What are the advantages or disadvantages of refactoring code?
-    #### Advanages:
+   
+   #### Advanages:
    - Make the code more efficient and improve performance
    - Improve the logic
    - Make the code easier to read for future users
    - Use less memory
 
-    #### Disadvanages:
+   #### Disadvanages:
    - Additional resources like time and budget that is needed to do the refactor
    - Might introduce new bugs
    - Person doing the refactor might not understand the original code
