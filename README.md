@@ -12,17 +12,17 @@ The output of the refactored code matches with the output before the code was re
 
 ### Screenshots for year 2017:
 #### Before Refactor:
-![All Stocks Analysis Output for 2017 with Execution time before Refactor}(Resources/VBA_OriginalCode_Runtime_2017.PNG)
+![All Stocks Analysis Output for 2017 with Execution time before Refactor](Resources/VBA_OriginalCode_Runtime_2017.PNG)
 
 #### After Refactor:
-![All Stocks Analysis Output for 2018 with Execution time after Refactor](Resources/VBA_Challenge_2017.png)
+![All Stocks Analysis Output for 2018 with Execution time after Refactor](![All Stocks Analysis Output for 2017 with Execution time before Refactor](https://github.com/Bhargavi-ng/stock-analysis/blob/main/Resources/VBA_Challenge_2017.png)
 
 ### Screenshots for year 2018:
 #### Before Refactor:
-![All Stocks Analysis Output for 2018 with Execution time before Refactor](Resources/VBA_OriginalCode_Runtime_2018.png)
+![All Stocks Analysis Output for 2018 with Execution time before Refactor](![All Stocks Analysis Output for 2017 with Execution time before Refactor](https://github.com/Bhargavi-ng/stock-analysis/blob/main/Resources/VBA_OriginalCode_Runtime_2018.png)
 
 #### After Refactor:
-![All Stocks Analysis Output for 2018 with Execution time after Refactor](Resources/VBA_Challenge_2018.png)
+![All Stocks Analysis Output for 2018 with Execution time after Refactor](![All Stocks Analysis Output for 2017 with Execution time before Refactor](https://github.com/Bhargavi-ng/stock-analysis/blob/main/Resources/VBA_Challenge_2018.png)
 
 ### Refactored code snippet:
 Below is the code snippet that is refactored with comments. Complete code for the All Stock Analysis can be found here [VBA Script](Resources/VBA_Challenge.vbs)
