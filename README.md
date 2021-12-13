@@ -12,7 +12,7 @@ The output of the refactored code matches with the output before the code was re
 
 ### Screenshots for year 2017:
 #### Before Refactor:
-![All Stocks Analysis Output for 2017 with Execution time before Refactor](Resources/VBA_OriginalCode_Runtime_2017.png)
+![All Stocks Analysis Output for 2017 with Execution time before Refactor}(Resources/VBA_OriginalCode_Runtime_2017.PNG)
 
 #### After Refactor:
 ![All Stocks Analysis Output for 2018 with Execution time after Refactor](Resources/VBA_Challenge_2017.png)
